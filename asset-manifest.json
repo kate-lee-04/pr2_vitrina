@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pr2_vitrina/static/css/main.9cb87336.css",
+    "main.js": "/pr2_vitrina/static/js/main.13318270.js",
+    "index.html": "/pr2_vitrina/index.html",
+    "main.9cb87336.css.map": "/pr2_vitrina/static/css/main.9cb87336.css.map",
+    "main.13318270.js.map": "/pr2_vitrina/static/js/main.13318270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb87336.css",
+    "static/js/main.13318270.js"
+  ]
+}
